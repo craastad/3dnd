@@ -2,26 +2,16 @@
 
 Our happy place to sell and buy used 3D printers.
 
-Install NodeJs + NPM
+## For Development
 
-https://docs.npmjs.com/getting-started/installing-node
+Install NodeJs + NPM: https://docs.npmjs.com/getting-started/installing-node
 
-Install dependencies (bootstrap)
+Install dependencies (bootstrap) by running: `npm install`
 
-`npm install`
+Run build and automatically update changes by running: `gulp`
 
-Run build
+Open the site locally in a browser from: `dist/index.html`
 
-`gulp`
+Deploy By Running: `gulp deploy`
 
-Open the site locally by opening in a browser :)
-
-`dist/index.html`
-
-Deploy By Running
-
-`gulp deploy`
-
-Open site on github
-
-https://craastad.github.io/3dnd/
+Open the deployment: https://craastad.github.io/3dnd/
